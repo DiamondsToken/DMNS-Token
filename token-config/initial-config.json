@@ -1,0 +1,9 @@
+{
+    "name": "Diamonds Group",
+    "symbol": "DMNS",
+    "mint_address": "3cegQvfWj32SVViSRvYqeAxDxqqPAb4ud67EY75joMr5",
+    "decimals": 6,
+    "token_program": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+    "metadata_program": "metaplex-token-metadata-program",
+    "metadata_uri": "https://bafkreian3flqabptiom5jxaxjzn3cyun2mibdadh4oa6iljwk6yz4jnno4.ipfs.w3s.link"
+  }
